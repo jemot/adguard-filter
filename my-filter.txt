@@ -1,0 +1,5 @@
+##[data-revive-zoneid]
+###adv-caption-mr2
+##.box-ads
+###ad_divRight
+/asyncjs.$domain=~asyncjs.com
