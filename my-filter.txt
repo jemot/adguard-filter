@@ -2,4 +2,5 @@
 ###adv-caption-mr2
 ##.box-ads
 ###ad_divRight
+detik.com###adv-caption-lead
 /asyncjs.$domain=~asyncjs.com
